@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-fastapi/static/css/main.073c9b0a.css",
-    "main.js": "/react-fastapi/static/js/main.0c817ec7.js",
+    "main.js": "/react-fastapi/static/js/main.7c718bab.js",
     "static/js/787.cda612ba.chunk.js": "/react-fastapi/static/js/787.cda612ba.chunk.js",
     "static/media/logo.svg": "/react-fastapi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-fastapi/index.html",
     "main.073c9b0a.css.map": "/react-fastapi/static/css/main.073c9b0a.css.map",
-    "main.0c817ec7.js.map": "/react-fastapi/static/js/main.0c817ec7.js.map",
+    "main.7c718bab.js.map": "/react-fastapi/static/js/main.7c718bab.js.map",
     "787.cda612ba.chunk.js.map": "/react-fastapi/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0c817ec7.js"
+    "static/js/main.7c718bab.js"
   ]
 }
