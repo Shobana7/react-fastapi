@@ -117,7 +117,7 @@ function ResponsiveDrawer(props) {
       >
         <Toolbar />
         <Switch>
-            <Route exact path="/" render={() => <div><img src={logo} className="App-logo" alt="logo" /></div>} />
+            <Route exact path="/react-fastapi" render={() => <div><img src={logo} className="App-logo" alt="logo" /></div>} />
             <Route path="/SalesCalls"><TextGen/></Route>
             <Route path="/MailTemplates"><MailGen/></Route>
             <Route path="/SocialMediaPosts"><PostGen/></Route>
